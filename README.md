@@ -1,192 +1,97 @@
+<!-- ──────────────────────────────────────────────────────────────
+  This file lives in a repo named exactly `anirudh27004`
+  (same as your username) → README.md at the root.
+  Search for "TODO" to swap in your real links.
+─────────────────────────────────────────────────────────────── -->
+
 <div align="center">
 
-<!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Hey+there+%F0%9F%91%8B+I'm+Anirudh;Building+AI+systems+that+actually+ship+%F0%9F%9A%80)](https://git.io/typing-svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=79C0FF&center=true&vCenter=true&width=560&lines=hi%2C+i'm+anirudh.;i+build+things+that+ship.;full-stack+%C2%B7+shaders+%C2%B7+neural+nets+from+scratch;co-piloted+by+AI.+flown+by+hand.">
+  <img alt="hi, i'm anirudh — i build things that ship" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=0969DA&center=true&vCenter=true&width=560&lines=hi%2C+i'm+anirudh.;i+build+things+that+ship.;full-stack+%C2%B7+shaders+%C2%B7+neural+nets+from+scratch;co-piloted+by+AI.+flown+by+hand.">
+</picture>
 
 <br>
 
-<!-- Quick Bio Badges -->
-[![WeNaude Labs](https://img.shields.io/badge/🔬_Currently_Building-WeNaude_Labs-6C63FF?style=for-the-badge)](https://github.com/anirudh27004/WeNaude-Labs)
-[![Founded](https://img.shields.io/badge/🎓_Founded-MQ_AI/DS_Society-FF6B6B?style=for-the-badge)](#)
-[![Teams](https://img.shields.io/badge/👥_Led_Teams_of-6_to_12-00D2D3?style=for-the-badge)](#)
+I learn by rebuilding things from scratch — deploy pipelines, neural networks, design tools —
+<br>then shipping the version with my fingerprints on it.
+
+<br>
+
+<!-- TODO: swap these three links for your real ones -->
+<a href="https://github.com/anirudh27004/Portfolio">portfolio</a>
+&nbsp;·&nbsp;
+<a href="https://www.linkedin.com/">linkedin</a>
+&nbsp;·&nbsp;
+<a href="mailto:you@example.com">email</a>
 
 </div>
 
 <br>
 
-<!-- Wave Separator -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+## ⚡ selected work
 
-## 🚀 What I Build
+| | |
+|---|---|
+| **[WeNaude Labs](https://github.com/anirudh27004/WeNaude-Labs)** | An ElevenLabs-style text-to-speech platform — voice library, waveform playback, auth, usage-based billing. **Live in production.** <br><sub>Next.js 16 · React 19 · tRPC · Prisma · Postgres · AWS S3 · Clerk · Polar</sub> |
+| **[Vercel Clone](https://github.com/anirudh27004/Vercel_Clone)** | Vercel's deploy engine, rebuilt: a containerised build farm on AWS ECS, an S3 reverse proxy, and live build logs streamed over sockets. <br><sub>Node.js · Docker · AWS ECS / ECR / S3 · Socket.io</sub> |
+| **[eerie](https://github.com/anirudh27004/eerie)** | A landing page hiding a second world — move your cursor and a liquid lens melts through it. Ping-pong FBOs and hand-written shaders. <br><sub>Three.js · GLSL · Next.js 16 · Framer Motion</sub> |
+| **[neural net, from scratch](https://github.com/anirudh27004/NeuralNetwork_from_scratch)** | MNIST classifier in raw NumPy. Forward pass, backprop and gradient descent written by hand — **85.6% accuracy, zero frameworks.** <br><sub>Python · NumPy · matrix calculus</sub> |
+| **[varnish](https://github.com/anirudh27004/varnish)** | Skill packs that teach AI coding agents design taste — motion, layout, 3D, typography, colour science. <br><sub>Claude skills · markdown · strong opinions</sub> |
 
-> **Full-stack AI engineer.** Not wrappers — real systems that run, scale, and solve problems from first principles.
+<sub>…plus a [react portfolio](https://github.com/anirudh27004/Portfolio), a [conceptual culture site](https://github.com/anirudh27004/Indian_Society_Conceptual_Website), and whatever's compiling this week → [all repos](https://github.com/anirudh27004?tab=repositories)</sub>
 
-Currently deep into agentic workflows, LLM system design, and real-time voice AI.
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## ⚡ Selected Work
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 [AI Research Platform](https://github.com/khawaja1447/Pace-Unit)
-ML ranking pipeline — **SBERT + BM25 + LLMs**
-<br>Full-stack: Flask, React, MongoDB
-<br>Built for [Robotic Marketer Pty Ltd](https://www.linkedin.com/in/hkayesh/)
-<br><br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-</td>
-<td width="50%">
-
-### 🎙️ [WeNaude Labs](https://github.com/anirudh27004/WeNaude-Labs) `WIP`
-Real-time AI voice generation platform
-<br>Designed for performance & scale
-<br>Core piece of a larger AI ecosystem
-<br><br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/AI_Voice-FF6B6B?style=flat-square&logo=soundcloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🧮 [Neural Network from Scratch](https://github.com/anirudh27004/NeuralNetwork_from_scratch)
-Forward prop, backprop, optimization
-<br>**Zero ML libraries.** Just fundamentals.
-<br><br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-</td>
-<td width="50%">
-
-### 🛠️ [Live Editor](https://github.com/anirudh27004/Live-Editor) `Deploying`
-Browser-based code editor on AWS
-<br>Real-time interaction & cloud-first design
-<br><br>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-### ⚙️ [Varnish](https://github.com/anirudh27004/varnish)
-Claude Code skill for faster, higher-quality frontend development
 <br>
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
-![AI](https://img.shields.io/badge/Dev_Tools-000000?style=flat-square&logo=windowsterminal&logoColor=white)
 
-</td>
-</tr>
-</table>
+## 🤖 how i work
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+```ts
+const build = async (idea: Idea) => {
+  const plan = await firstPrinciples(idea);   // rebuild it from scratch at least once
+  const code = pair(me, ai).write(plan);      // human taste × machine speed
+  return ship(code);                          // always — even the weird ones
+};
+```
 
-## 💻 Tech Stack
+<br>
+
+## 🛠 stack
 
 <div align="center">
 
-#### 🗣️ Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-#### 🌐 Frontend & Backend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-#### 🤖 AI / ML
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-#### ☁️ Infra & DevOps
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,tailwind,threejs,nodejs,prisma,postgres,docker,aws,vercel,git" alt="TypeScript, JavaScript, Python, React, Next.js, Tailwind, Three.js, Node.js, Prisma, Postgres, Docker, AWS, Vercel, Git">
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<br>
 
-## 📊 GitHub Stats
+## 📈 stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anirudh27004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anirudh27004&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" width="48%" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudh27004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" width="40%" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=anirudh27004&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub stats">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudh27004&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages">
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## 🗣️ What People Say
-
-<table>
-<tr>
-<td>
-
-> *"Exceptional leadership… strong technical expertise across Python, ML, Django, API integration, and MongoDB… proactive, dependable, and highly skilled."*
-
-**[Humayun Kayesh](https://www.linkedin.com/in/hkayesh/)** — PhD, ML Expert & Mentor 🎓
-
-</td>
-</tr>
-<tr>
-<td>
-
-> *"Strong potential in data and analytics-focused roles… organised, proactive, and highly engaged."*
-
-**[Joshua Ching](https://www.linkedin.com/in/joshua-c-45a93875/)** — AI & Data Science, Asia Pacific 🌏
-
-</td>
-</tr>
-<tr>
-<td>
-
-> *"His combination of leadership, technical depth, and disciplined execution will translate seamlessly into any role… I strongly recommend him without hesitation."*
-
-**[Parva Teli Shah](https://www.linkedin.com/in/parva-teli-shah-b4b28121a/)** — Data Analyst @ Shoalhaven City Council 📊
-
-</td>
-</tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<!-- ──────────────────────────────────────────────────────────────
+  BONUS ANIMATION — the contribution-eating snake 🐍
+  1. In this same repo, create: .github/workflows/snake.yml
+     with the Platane/snk action (generates the SVG nightly).
+  2. Then uncomment the block below.
 
 <div align="center">
-
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudhgupta2004)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anirudh27004@gmail.com)
-[![X](https://img.shields.io/badge/𝕏-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BuggedDevx)
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=anirudh27004&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-<br>
-
-*⚡ "I'd rather ship something imperfect than never ship at all." ⚡*
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anirudh27004/anirudh27004/output/github-contribution-grid-snake-dark.svg">
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/anirudh27004/anirudh27004/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
+─────────────────────────────────────────────────────────────── -->
+
+<br>
+
+<div align="center">
+<sub>built with taste, shipped with AI ⚡</sub>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0969DA,50:6C63FF,100:9E7BFF&section=footer" width="100%" alt="">
