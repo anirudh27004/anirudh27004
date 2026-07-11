@@ -4,46 +4,51 @@
   Search for "TODO" to swap in your real links.
 ─────────────────────────────────────────────────────────────── -->
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0969DA,50:6C63FF,100:9E7BFF&text=Anirudh&fontSize=44&fontColor=ffffff&fontAlignY=32&animation=fadeIn" width="100%" alt="Anirudh">
+
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=79C0FF&center=true&vCenter=true&width=560&lines=hi%2C+i'm+anirudh.;i+build+things+that+ship.;full-stack+%C2%B7+shaders+%C2%B7+neural+nets+from+scratch;co-piloted+by+AI.+flown+by+hand.">
-  <img alt="hi, i'm anirudh — i build things that ship" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=0969DA&center=true&vCenter=true&width=560&lines=hi%2C+i'm+anirudh.;i+build+things+that+ship.;full-stack+%C2%B7+shaders+%C2%B7+neural+nets+from+scratch;co-piloted+by+AI.+flown+by+hand.">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=900&color=79C0FF&center=true&vCenter=true&width=560&lines=I+build+things+that+ship.;Full-stack+%C2%B7+shaders+%C2%B7+neural+nets+from+scratch;Co-piloted+by+AI.+Flown+by+hand.">
+  <img alt="I build things that ship. Full-stack · shaders · neural nets from scratch. Co-piloted by AI. Flown by hand." src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=900&color=0969DA&center=true&vCenter=true&width=560&lines=I+build+things+that+ship.;Full-stack+%C2%B7+shaders+%C2%B7+neural+nets+from+scratch;Co-piloted+by+AI.+Flown+by+hand.">
 </picture>
 
 <br>
 
-I learn by rebuilding things from scratch — deploy pipelines, neural networks, design tools —
-<br>then shipping the version with my fingerprints on it.
+<samp>
+I learn by rebuilding things from scratch — deploy pipelines, neural networks, design tools —<br>
+then shipping the version with my fingerprints on it.
+</samp>
 
-<br>
+<br><br>
 
-<!-- TODO: swap these three links for your real ones -->
-<a href="https://github.com/anirudh27004/Portfolio">portfolio</a>
-&nbsp;·&nbsp;
-<a href="https://www.linkedin.com/">linkedin</a>
-&nbsp;·&nbsp;
-<a href="mailto:you@example.com">email</a>
+<!-- TODO: point portfolio at your live URL, and add your real LinkedIn + email -->
+<samp>
+<a href="https://github.com/anirudh27004/Portfolio">[ portfolio ]</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/">[ linkedin ]</a>&nbsp;&nbsp;
+<a href="mailto:you@example.com">[ email ]</a>
+</samp>
 
 </div>
 
 <br>
 
-## ⚡ selected work
+## ⚡ Selected work
 
 | | |
 |---|---|
-| **[WeNaude Labs](https://github.com/anirudh27004/WeNaude-Labs)** | An ElevenLabs-style text-to-speech platform — voice library, waveform playback, auth, usage-based billing. **Live in production.** <br><sub>Next.js 16 · React 19 · tRPC · Prisma · Postgres · AWS S3 · Clerk · Polar</sub> |
-| **[Vercel Clone](https://github.com/anirudh27004/Vercel_Clone)** | Vercel's deploy engine, rebuilt: a containerised build farm on AWS ECS, an S3 reverse proxy, and live build logs streamed over sockets. <br><sub>Node.js · Docker · AWS ECS / ECR / S3 · Socket.io</sub> |
-| **[eerie](https://github.com/anirudh27004/eerie)** | A landing page hiding a second world — move your cursor and a liquid lens melts through it. Ping-pong FBOs and hand-written shaders. <br><sub>Three.js · GLSL · Next.js 16 · Framer Motion</sub> |
-| **[neural net, from scratch](https://github.com/anirudh27004/NeuralNetwork_from_scratch)** | MNIST classifier in raw NumPy. Forward pass, backprop and gradient descent written by hand — **85.6% accuracy, zero frameworks.** <br><sub>Python · NumPy · matrix calculus</sub> |
-| **[varnish](https://github.com/anirudh27004/varnish)** | Skill packs that teach AI coding agents design taste — motion, layout, 3D, typography, colour science. <br><sub>Claude skills · markdown · strong opinions</sub> |
+| 🖥️ **[Portfolio](https://github.com/anirudh27004/Portfolio)** | My portfolio, disguised as an operating system — a macOS desktop you can actually click around. **Start here.** <br><sub>React 19 · GSAP · Tailwind v4 · Zustand · Vite</sub> |
+| 🎙️ **[WeNaude Labs](https://github.com/anirudh27004/WeNaude-Labs)** | An ElevenLabs-style text-to-speech platform — voice library, waveform playback, auth, usage-based billing. **Live in production.** <br><sub>Next.js 16 · React 19 · tRPC · Prisma · Postgres · AWS S3 · Clerk · Polar</sub> |
+| ▲ **[Vercel Clone](https://github.com/anirudh27004/Vercel_Clone)** | Vercel's deploy engine, rebuilt: a containerised build farm on AWS ECS, an S3 reverse proxy, and live build logs streamed over sockets. <br><sub>Node.js · Docker · AWS ECS / ECR / S3 · Socket.io</sub> |
+| 🫧 **[eerie](https://github.com/anirudh27004/eerie)** | A landing page hiding a second world — move your cursor and a liquid lens melts through it. Ping-pong FBOs and hand-written shaders. <br><sub>Three.js · GLSL · Next.js 16 · Framer Motion</sub> |
+| 🧠 **[Neural net, from scratch](https://github.com/anirudh27004/NeuralNetwork_from_scratch)** | MNIST classifier in raw NumPy. Forward pass, backprop and gradient descent written by hand — **85.6% accuracy, zero frameworks.** <br><sub>Python · NumPy · matrix calculus</sub> |
+| 🎨 **[varnish](https://github.com/anirudh27004/varnish)** | Skill packs that teach AI coding agents design taste — motion, layout, 3D, typography, colour science. <br><sub>Claude skills · markdown · strong opinions</sub> |
 
-<sub>…plus a [react portfolio](https://github.com/anirudh27004/Portfolio), a [conceptual culture site](https://github.com/anirudh27004/Indian_Society_Conceptual_Website), and whatever's compiling this week → [all repos](https://github.com/anirudh27004?tab=repositories)</sub>
+<sub>…plus a [conceptual culture site](https://github.com/anirudh27004/Indian_Society_Conceptual_Website) and whatever's compiling this week → [all repos](https://github.com/anirudh27004?tab=repositories)</sub>
 
 <br>
 
-## 🤖 how i work
+## 🤖 How I work
 
 ```ts
 const build = async (idea: Idea) => {
@@ -55,22 +60,29 @@ const build = async (idea: Idea) => {
 
 <br>
 
-## 🛠 stack
+## 🛠️ Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,tailwind,threejs,nodejs,prisma,postgres,docker,aws,vercel,git" alt="TypeScript, JavaScript, Python, React, Next.js, Tailwind, Three.js, Node.js, Prisma, Postgres, Docker, AWS, Vercel, Git">
+<img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,tailwind,threejs&perline=7" alt="TypeScript, JavaScript, Python, React, Next.js, Tailwind, Three.js">
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,prisma,postgres,docker,aws,vercel,git&perline=7" alt="Node.js, Prisma, Postgres, Docker, AWS, Vercel, Git">
 
 </div>
 
 <br>
 
-## 📈 stats
+## 📈 Stats
+
+<!-- These cards run on the free public github-readme-stats server, which
+     occasionally rate-limits during peak hours. If they ever show an error,
+     they'll recover on their own — or self-host in ~2 min for 100% uptime:
+     https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own -->
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anirudh27004&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudh27004&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=anirudh27004&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&cache_seconds=86400" alt="GitHub stats">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudh27004&layout=compact&hide_border=true&theme=transparent&langs_count=8&cache_seconds=86400" alt="Top languages">
 
 </div>
 
