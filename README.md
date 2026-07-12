@@ -24,9 +24,9 @@ then shipping the version with my fingerprints on it.
 
 <!-- TODO: point portfolio at your live URL, and add your real LinkedIn + email -->
 <samp>
-<a href="https://github.com/anirudh27004/Portfolio">[ portfolio ]</a>&nbsp;&nbsp;
+<a href="https://anirudhgupta.dev/">[ portfolio ]</a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/">[ linkedin ]</a>&nbsp;&nbsp;
-<a href="mailto:you@example.com">[ email ]</a>
+<a href="mailto:anirudh27004@gmail.com">[ email ]</a>
 </samp>
 
 </div>
